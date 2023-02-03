@@ -1,6 +1,6 @@
-# *Seeker: Identifying Assertion Inferring Mutants*
+# *Seeker: Efficient Class Specification Inference*
 
-This repo contains the source code and data set for the paper _Seeker: Identifying Assertion Inferring Mutants_, under review in the _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)_.
+This repo contains the source code and data set for the paper _Seeker: Efficient Class Specification Inference_, under review in the _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)_.
 
 ---
 
